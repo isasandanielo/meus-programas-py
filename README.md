@@ -10,6 +10,7 @@ Este espaço reúne programas e pequenos projetos desenvolvidos por mim, utiliza
 |---|---|
 | [Programa de Saque](./programa-de-saque/) | Simulação de saque bancário com cálculo e distribuição de cédulas. |
 | [Controle de Compras](./controle-compras/) | Cadastro de produtos, cálculo do valor total da compra, identificação de produtos acima de R$ 1.000,00 e do item mais barato. |
+| [Cadastro e Estatísticas de Pessoas](./cadastro-estatisticas/) | Cadastro de pessoas, classificação por idade e sexo e geração de estatísticas dos registros. |
 
 ## Tecnologias utilizadas
 
