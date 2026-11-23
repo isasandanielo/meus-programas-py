@@ -13,6 +13,7 @@ Este espaço reúne programas e pequenos projetos desenvolvidos por mim, utiliza
 | [Cadastro e Estatísticas de Pessoas](./cadastro-estatisticas/) | Cadastro de pessoas, classificação por idade e sexo e geração de estatísticas dos registros. |
 | [Jogo de Par ou Ímpar](./par-ou-impar/) | Jogo contra o computador com geração de números aleatórios, cálculo de paridade e contagem de vitórias consecutivas. |
 | [Calculadora Interativa](./calculadora-interativa/) | Menu de operações matemáticas com soma, multiplicação, comparação de valores e atualização dos números informados. |
+| [Verificador de Palíndromos](./verificador-de-palindromos/) | Verifica se uma frase é um palíndromo por meio da manipulação e inversão de strings. |
 
 ## Tecnologias utilizadas
 
